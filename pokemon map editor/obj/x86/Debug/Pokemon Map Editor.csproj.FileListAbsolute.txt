@@ -1,0 +1,31 @@
+H:\Pokemon Map Editor\Pokemon Map Editor\bin\Debug\Pokémon Map Editor.exe.config
+H:\Pokemon Map Editor\Pokemon Map Editor\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Pokemon Map Editor\Pokemon Map Editor\obj\x86\Debug\PokemonMapEditor.frmFreeSpaceFinder.resources
+H:\Pokemon Map Editor\Pokemon Map Editor\obj\x86\Debug\PokemonMapEditor.frmMain.resources
+H:\Pokemon Map Editor\Pokemon Map Editor\obj\x86\Debug\PokemonMapEditor.Properties.Resources.resources
+H:\Pokemon Map Editor\Pokemon Map Editor\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+H:\Pokemon Map Editor\Pokemon Map Editor\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+H:\Pokemon Map Editor\Pokemon Map Editor\bin\Debug\Pokémon Map Editor.exe
+H:\Pokemon Map Editor\Pokemon Map Editor\bin\Debug\Pokémon Map Editor.pdb
+H:\Pokemon Map Editor\Pokemon Map Editor\obj\x86\Debug\Pokémon Map Editor.exe
+H:\Pokemon Map Editor\Pokemon Map Editor\obj\x86\Debug\Pokémon Map Editor.pdb
+G:\Pokemon Map Editor\Pokemon Map Editor\bin\Debug\Pokémon Map Editor.exe.config
+G:\Pokemon Map Editor\Pokemon Map Editor\obj\x86\Debug\Pokémon Map Editor.exe
+G:\Pokemon Map Editor\Pokemon Map Editor\obj\x86\Debug\Pokémon Map Editor.pdb
+G:\Pokemon Map Editor\Pokemon Map Editor\bin\Debug\Pokémon Map Editor.exe
+G:\Pokemon Map Editor\Pokemon Map Editor\bin\Debug\Pokémon Map Editor.pdb
+G:\Pokemon Map Editor\Pokemon Map Editor\obj\x86\Debug\Pokemon Map Editor.csprojResolveAssemblyReference.cache
+G:\Pokemon Map Editor\Pokemon Map Editor\obj\x86\Debug\PokemonMapEditor.frmFreeSpaceFinder.resources
+G:\Pokemon Map Editor\Pokemon Map Editor\obj\x86\Debug\PokemonMapEditor.frmMain.resources
+G:\Pokemon Map Editor\Pokemon Map Editor\obj\x86\Debug\PokemonMapEditor.Properties.Resources.resources
+G:\Pokemon Map Editor\Pokemon Map Editor\obj\x86\Debug\Pokemon Map Editor.csproj.GenerateResource.Cache
+C:\Users\Kawai\Dropbox\Projects\Pokemon Map Editor\Pokemon Map Editor\bin\Debug\Pokémon Map Editor.exe.config
+C:\Users\Kawai\Dropbox\Projects\Pokemon Map Editor\Pokemon Map Editor\obj\x86\Debug\Pokémon Map Editor.exe
+C:\Users\Kawai\Dropbox\Projects\Pokemon Map Editor\Pokemon Map Editor\obj\x86\Debug\Pokémon Map Editor.pdb
+C:\Users\Kawai\Dropbox\Projects\Pokemon Map Editor\Pokemon Map Editor\bin\Debug\Pokémon Map Editor.exe
+C:\Users\Kawai\Dropbox\Projects\Pokemon Map Editor\Pokemon Map Editor\bin\Debug\Pokémon Map Editor.pdb
+C:\Users\Kawai\Dropbox\Projects\Pokemon Map Editor\Pokemon Map Editor\obj\x86\Debug\Pokemon Map Editor.csprojResolveAssemblyReference.cache
+C:\Users\Kawai\Dropbox\Projects\Pokemon Map Editor\Pokemon Map Editor\obj\x86\Debug\PokemonMapEditor.frmFreeSpaceFinder.resources
+C:\Users\Kawai\Dropbox\Projects\Pokemon Map Editor\Pokemon Map Editor\obj\x86\Debug\PokemonMapEditor.frmMain.resources
+C:\Users\Kawai\Dropbox\Projects\Pokemon Map Editor\Pokemon Map Editor\obj\x86\Debug\PokemonMapEditor.Properties.Resources.resources
+C:\Users\Kawai\Dropbox\Projects\Pokemon Map Editor\Pokemon Map Editor\obj\x86\Debug\Pokemon Map Editor.csproj.GenerateResource.Cache

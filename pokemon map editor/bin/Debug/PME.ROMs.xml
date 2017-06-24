@@ -1,0 +1,25 @@
+<ROMs>
+<!-- Ruby Versions -->
+<ROM code="AXVE" description="Ruby English" version="0">
+	<offset id="TilesetHeader" value="286CF4"/>
+	<offset id="MapBankOrigin" value="53324"/>
+
+	<offset id="MapNamesOrigin1" value="FB550"/>
+</ROM>
+
+<!-- Fire Red Versions -->
+<ROM code="BPRE" description="Fire Red English" version="0">
+	<offset id="TilesetHeader" value="2D4A94"/>
+	<offset id="MapBankOrigin" value="5524C"/>
+
+	<offset id="MapNamesOrigin1" value="C0C94"/>
+</ROM>
+
+<!-- Emerald Versions -->
+<ROM code="BPEE" description="Emerald English" version="0">
+	<offset id="TilesetHeader" value="3DF704"/>
+	<offset id="MapBankOrigin" value="84AA4"/>
+
+	<offset id="MapNamesOrigin1" value="123B44"/>
+</ROM>
+</ROMs>

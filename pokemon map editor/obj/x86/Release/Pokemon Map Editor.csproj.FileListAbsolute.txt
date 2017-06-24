@@ -1,0 +1,11 @@
+H:\Pokemon Map Editor\Pokemon Map Editor\bin\Release\Pokémon Map Editor.exe.config
+H:\Pokemon Map Editor\Pokemon Map Editor\obj\x86\Release\ResolveAssemblyReference.cache
+H:\Pokemon Map Editor\Pokemon Map Editor\obj\x86\Release\PokemonMapEditor.frmFreeSpaceFinder.resources
+H:\Pokemon Map Editor\Pokemon Map Editor\obj\x86\Release\PokemonMapEditor.frmMain.resources
+H:\Pokemon Map Editor\Pokemon Map Editor\obj\x86\Release\PokemonMapEditor.Properties.Resources.resources
+H:\Pokemon Map Editor\Pokemon Map Editor\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+H:\Pokemon Map Editor\Pokemon Map Editor\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+H:\Pokemon Map Editor\Pokemon Map Editor\bin\Release\Pokémon Map Editor.exe
+H:\Pokemon Map Editor\Pokemon Map Editor\bin\Release\Pokémon Map Editor.pdb
+H:\Pokemon Map Editor\Pokemon Map Editor\obj\x86\Release\Pokémon Map Editor.exe
+H:\Pokemon Map Editor\Pokemon Map Editor\obj\x86\Release\Pokémon Map Editor.pdb

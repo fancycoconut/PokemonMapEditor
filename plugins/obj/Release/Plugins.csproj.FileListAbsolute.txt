@@ -1,0 +1,5 @@
+H:\Pokemon Map Editor\Plugins\bin\Release\Plugins.dll
+H:\Pokemon Map Editor\Plugins\bin\Release\Plugins.pdb
+H:\Pokemon Map Editor\Plugins\obj\Release\ResolveAssemblyReference.cache
+H:\Pokemon Map Editor\Plugins\obj\Release\Plugins.dll
+H:\Pokemon Map Editor\Plugins\obj\Release\Plugins.pdb

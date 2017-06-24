@@ -1,0 +1,14 @@
+H:\Pokemon Map Editor\Plugins\bin\Debug\Plugins.dll
+H:\Pokemon Map Editor\Plugins\bin\Debug\Plugins.pdb
+H:\Pokemon Map Editor\Plugins\obj\Debug\ResolveAssemblyReference.cache
+H:\Pokemon Map Editor\Plugins\obj\Debug\Plugins.dll
+H:\Pokemon Map Editor\Plugins\obj\Debug\Plugins.pdb
+C:\Users\Kawai\Desktop\Pokemon Map Editor\Plugins\bin\Debug\Plugins.dll
+C:\Users\Kawai\Desktop\Pokemon Map Editor\Plugins\bin\Debug\Plugins.pdb
+C:\Users\Kawai\Desktop\Pokemon Map Editor\Plugins\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Kawai\Desktop\Pokemon Map Editor\Plugins\obj\Debug\Plugins.dll
+C:\Users\Kawai\Desktop\Pokemon Map Editor\Plugins\obj\Debug\Plugins.pdb
+G:\Pokemon Map Editor\Plugins\bin\Debug\Plugins.dll
+G:\Pokemon Map Editor\Plugins\bin\Debug\Plugins.pdb
+G:\Pokemon Map Editor\Plugins\obj\Debug\Plugins.dll
+G:\Pokemon Map Editor\Plugins\obj\Debug\Plugins.pdb
