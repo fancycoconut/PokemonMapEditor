@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Graphics\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Gba.Core\Gba.Core.csproj" />
+  </ItemGroup>
+
+</Project>

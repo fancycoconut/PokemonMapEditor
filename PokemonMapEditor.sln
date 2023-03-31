@@ -1,0 +1,63 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PokemonMapEditor", "src\PokemonMapEditor\PokemonMapEditor.csproj", "{F7D3A2BA-EFE1-4ABC-9492-EB6A46975E17}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PokemonMapEditor.Core", "src\PokemonMapEditor.Core\PokemonMapEditor.Core.csproj", "{C6B7678F-F12B-4178-B24F-F9BF8E6D7EF6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Gba.Core", "src\Gba.Core\Gba.Core.csproj", "{39835140-F928-4654-9DCD-D7A5B086FA5A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{7FAEA461-66F3-4E14-9D3F-1D37F44B176F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pokemon Map Editor", "pokemon map editor\Pokemon Map Editor.csproj", "{37FFAE73-ABDE-437F-BDB2-4669116183E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7D3A2BA-EFE1-4ABC-9492-EB6A46975E17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7D3A2BA-EFE1-4ABC-9492-EB6A46975E17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7D3A2BA-EFE1-4ABC-9492-EB6A46975E17}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F7D3A2BA-EFE1-4ABC-9492-EB6A46975E17}.Debug|x86.Build.0 = Debug|Any CPU
+		{F7D3A2BA-EFE1-4ABC-9492-EB6A46975E17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7D3A2BA-EFE1-4ABC-9492-EB6A46975E17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7D3A2BA-EFE1-4ABC-9492-EB6A46975E17}.Release|x86.ActiveCfg = Release|Any CPU
+		{F7D3A2BA-EFE1-4ABC-9492-EB6A46975E17}.Release|x86.Build.0 = Release|Any CPU
+		{C6B7678F-F12B-4178-B24F-F9BF8E6D7EF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6B7678F-F12B-4178-B24F-F9BF8E6D7EF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6B7678F-F12B-4178-B24F-F9BF8E6D7EF6}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C6B7678F-F12B-4178-B24F-F9BF8E6D7EF6}.Debug|x86.Build.0 = Debug|Any CPU
+		{C6B7678F-F12B-4178-B24F-F9BF8E6D7EF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6B7678F-F12B-4178-B24F-F9BF8E6D7EF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6B7678F-F12B-4178-B24F-F9BF8E6D7EF6}.Release|x86.ActiveCfg = Release|Any CPU
+		{C6B7678F-F12B-4178-B24F-F9BF8E6D7EF6}.Release|x86.Build.0 = Release|Any CPU
+		{39835140-F928-4654-9DCD-D7A5B086FA5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39835140-F928-4654-9DCD-D7A5B086FA5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39835140-F928-4654-9DCD-D7A5B086FA5A}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{39835140-F928-4654-9DCD-D7A5B086FA5A}.Debug|x86.Build.0 = Debug|Any CPU
+		{39835140-F928-4654-9DCD-D7A5B086FA5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39835140-F928-4654-9DCD-D7A5B086FA5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39835140-F928-4654-9DCD-D7A5B086FA5A}.Release|x86.ActiveCfg = Release|Any CPU
+		{39835140-F928-4654-9DCD-D7A5B086FA5A}.Release|x86.Build.0 = Release|Any CPU
+		{37FFAE73-ABDE-437F-BDB2-4669116183E2}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{37FFAE73-ABDE-437F-BDB2-4669116183E2}.Debug|Any CPU.Build.0 = Debug|x86
+		{37FFAE73-ABDE-437F-BDB2-4669116183E2}.Debug|x86.ActiveCfg = Debug|x86
+		{37FFAE73-ABDE-437F-BDB2-4669116183E2}.Debug|x86.Build.0 = Debug|x86
+		{37FFAE73-ABDE-437F-BDB2-4669116183E2}.Release|Any CPU.ActiveCfg = Release|x86
+		{37FFAE73-ABDE-437F-BDB2-4669116183E2}.Release|Any CPU.Build.0 = Release|x86
+		{37FFAE73-ABDE-437F-BDB2-4669116183E2}.Release|x86.ActiveCfg = Release|x86
+		{37FFAE73-ABDE-437F-BDB2-4669116183E2}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61B2240F-2483-424A-9180-89F69D762ED0}
+	EndGlobalSection
+EndGlobal
