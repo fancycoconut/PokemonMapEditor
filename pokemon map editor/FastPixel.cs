@@ -167,5 +167,5 @@ namespace PokemonMapEditor
 				return Color.FromArgb(r, g, b);
 			}
 		}
-	} // End class
-} // End namespace
+	}
+}
